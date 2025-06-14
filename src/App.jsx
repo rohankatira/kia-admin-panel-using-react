@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState, useRef } from "react";
-import Home from "./pages/Home";np
+import Home from "./pages/Home";
 import { Route, Routes, useNavigate } from "react-router-dom";
 import Form from "./pages/Form";
 import Datatable from "./pages/Datatable";
